@@ -1,0 +1,11 @@
+com\impos\user\service\UsersService.class
+com\impos\user\converters\UsersToUsersModelConverter.class
+com\impos\user\businessdelegate\context\UsersContext.class
+com\impos\user\model\UsersModel.class
+com\impos\user\domain\Users.class
+com\impos\user\ImposUserApplication.class
+com\impos\user\service\IUsersService.class
+com\impos\user\repository\UsersRepository.class
+com\impos\user\controller\UsersController.class
+com\impos\user\converters\UsersModelToUsersConverter.class
+com\impos\user\businessdelegate\UsersBusinessDelegate.class
