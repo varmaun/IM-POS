@@ -18,6 +18,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
+		<!-- sonar analysis -->
 		<sonar.projectKey>varmaun_IM-POS</sonar.projectKey>
 		<sonar.organization>varmaun</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
